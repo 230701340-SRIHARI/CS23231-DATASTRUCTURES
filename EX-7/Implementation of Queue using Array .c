@@ -1,6 +1,6 @@
 NAME: SRIHARI S 
 REGISTER NO.:230701340
-EX-7: Implementation of Queue using Array and Linked list
+EX-7: Implementation of Queue using Array 
 
 
 #include<stdio.h>
